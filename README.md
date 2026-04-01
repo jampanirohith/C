@@ -1,5 +1,5 @@
 # SEM-1
-## C - Fundamentals of Programming
+## Fundamentals of Programming
 
 ### Learning Outcomes
 
@@ -51,3 +51,32 @@ of equations, computing gradients.
 3. Guttag John, Introduction to Computation and Programming Using Python: with
 Application to understanding Data 2nd ed., MIT Press, 2016. ISBN:9780262529624.
 4. H. P Langtangen, A Primer on Scientific Programming with Python, Springer, 2016.
+
+# SEM-3
+## Data Analysis and Visualisation
+### Learning Outcomes
+ Write structured programs for accomplishing specific tasks in programming languages
+like C, C++ and Python.
+ Develop object-oriented programs and design computational methods for scientific and
+data applications.
+ Choose appropriate algorithms, libraries and Datatypes.
+ Understand the role of computation in solving problems.
+ Test and debug programs
+
+### Syllabus
+ Introduction to data structures, classes, templates
+ Object oriented Programming
+ Understanding Program Efficiency
+ File input/output, Loading and storing data, data files.
+ Plotting and visualisation of scientific data,
+
+### Text & Reference Books
+1. Byron S. Gottfried, Programming with C, Schaums Outlines, 2nd Ed, Tata McGraw-Hill,
+2006.
+2. John R. Hubbard, Programming with C++, Schaums Outlines, 2nd Ed, Tata McGraw-Hill,
+2002.
+3. R. G. Dromey, How to Solve it by Computer, Pearson Education, 4th Reprint, 2007.
+4. Bjarne Stroustrup, The C++ Programming Language, 4th ed., Addison-Wesley 2013.
+5. Guttag, John. Introduction to Computation and Programming Using Python: With
+Application to Understanding Data Second ed., MIT Press, 2016. ISBN: 9780262529624.
+6. H. P. Langtangen, A Primer on Scientific Programming with Python, Springer, 2016.
