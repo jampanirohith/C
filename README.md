@@ -80,3 +80,41 @@ data applications.
 5. Guttag, John. Introduction to Computation and Programming Using Python: With
 Application to Understanding Data Second ed., MIT Press, 2016. ISBN: 9780262529624.
 6. H. P. Langtangen, A Primer on Scientific Programming with Python, Springer, 2016.
+
+
+
+
+
+# SEM-4
+## Scientific Computing and Data Visualization
+### Learning Outcomes
+ Learn different types of data structures represented by various C++ standard template library
+(STL) containers.
+ Learn how to use the C++ STL containers to handle and process numerical data.
+ Learn how to use SciPy to handle special mathematical functions, perform some of the routine
+numerical tasks with functions.
+ Learn how to produce various graphics for visualization of numerical data using Python
+matplotlib.
+ Learn how to apply numerical computing and data visualization techniques for specific scientific
+problems.
+
+### Syllabus
+ Introduction to C++ standard template library (STL): Container Classes, Iterators, STL algorithms.
+ Data structures in STL containers: Usage of STL ‘Vector’, ‘Array’, ‘Deque’, ‘List’, ‘Set’,
+‘Multiset’, ‘Map’, ‘Multimap’.
+ Introduction to SciPy. Use SciPy to compute Special functions, do numerical integrations, find the
+root of a function, optimize a function.
+ String manipulation using Python.
+ Data plotting and visualization with Matplotlib. Anatomy of a matplotlib Figure. Figure, Axes,
+Artist, Color, Styles, Labels, Annotation.
+ Matplotlib Pyplot: Point plot, Line plot of 2D data, customizations. Histogram, Surface plot of 3D
+data, Contour plot. Plotting numpy arrays as images.
+ Introduction Seaborn: Statistical data visualization.
+ Application to specific scientific problems.
+
+### Text & Reference Books
+1. Stephen Prata, C++ Primer plus (6th Ed), Addison-Wesley
+2. Mark Summerfield, Programming in Python 3, Addison-Wesley
+3. https://matplotlib.org/
+4. https://numpy.org/
+5. https://scipy.org/
